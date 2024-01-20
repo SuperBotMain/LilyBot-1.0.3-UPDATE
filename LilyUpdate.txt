@@ -1,0 +1,11 @@
+2024
+
+- 1.12 | 1.0.4
+Zene parancsok magyarosítva.
+Ping parancs hozzáadva.
+botinfo parancs módosítva.
+Userinfo parancs módosítva.
+serverinfo parancs javítva.
+globalchat kód javítva.
+A guildnak vagy felhasználónak premium adás javítva.
+A szervernek és felhasználónak a premiumjának törlésére szolgáló parancs javítva.
